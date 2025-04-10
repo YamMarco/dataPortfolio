@@ -1,0 +1,9 @@
+customerID	rfm_tier	segment	_	m_sinceOrdered	total_sales	totalOrders	__	FullName	PhoneNumber	EmailAddress	Address	City	Region	Country	BirthDate	MaritalStatus	YearlyIncome	Gender	TotalChildren	Education	Occupation	HomeOwnerFlag	NumberCarsOwned
+29485	Gold	NULL	|	1	112889	4	|	Catherine Abel	747-555-0171	catherine0@adventure-works.com	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+29486	Gold	NULL	|	1	519411	12	|	Kim Abercrombie	334-555-0137	kim2@adventure-works.com	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+29487	Gold	NULL	|	1	67941	11	|	Humberto Acevedo	599-555-0127	humberto0@adventure-works.com	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+29484	Silver	High-Value Dormant	|	14	131103	7	|	Gustavo Achong	398-555-0132	gustavo0@adventure-works.com	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+29488	Gold	NULL	|	1	221170	4	|	Pilar Ackerman	1 (11) 500 555-0132	pilar1@adventure-works.com	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+28866	Regular	NULL	|	9	118	1	|	Aaron Adams	417-555-0154	aaron48@adventure-works.com	4116 Stanbridge Ct.	Downey	California	United States	1974-02-05	Single	25001-50000	Male	0	Partial College	Skilled Manual	1	1
+13323	Regular	NULL	|	1	142	1	|	Adam Adams	129-555-0195	adam46@adventure-works.com	9381 Bayside Way	Newport Beach	California	United States	1953-03-22	Married	50001-75000	Male	3	Graduate Degree	Management	0	2
+21139	Regular	NULL	|	5	1736	1	|	Alex Adams	346-555-0124	alex43@adventure-works.com	237 Bellwood Dr.	Lake Oswego	Oregon	United States	1962-06-24	Married	50001-75000	Male	1	Partial College	Skilled Manual	1	1
